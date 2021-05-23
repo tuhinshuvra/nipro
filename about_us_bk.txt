@@ -1,0 +1,20 @@
+
+<!-- about us start -->
+		<section class="about" id="about">
+			<div class="container">
+				<!-- 1st row -->
+				<div class="row">
+					<div class="col-lg-6">
+						<img class="img-fluid ab_img" src="images/about.jpg" alt="about">
+					</div>
+					<div class="col-lg-6">
+						<div class="ab_text ml-auto">
+							<h1 class="ab_h1">About Us</h1>
+							<p class="ab_p1">Lorem Ipsum is simply dummy text of the printing and typesetting industr hello Ipsum has been the industry's standard dummy text ever since the 1500s,  ian unknown printer took a galley omen book. It has survived not only five ies, but also the leap into electronic typesetting, remaining essentially un also the leap into electronic typesetting, remaining essentially un</p>
+							<p class="ab_p2">with the release of Letraset sheets containing Lorem Ipsum passages, heo and more recently with desktop publishing software like A PageMaker including versions of Lorem Ipsum.</p>
+							<button class="ab_button">Learn More <i class="fas fa-long-arrow-alt-right"></i></button>
+						</div>
+					</div>
+				</div>
+			</section>
+			<!-- about us end -->
